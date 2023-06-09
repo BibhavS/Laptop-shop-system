@@ -1,0 +1,20 @@
+Aspire 7 2022       , Acer , $1010, 0, Intel i5-1240P        , GTX 1650     , 16GB RAM, 256GB SSD
+Swift 3 2021        , Acer , $1200, 8, Intel i7-1165G7       , Intel Iris Xe, 8GB RAM , 512GB SSD
+Swift X Pro         , Acer , $1300, 8, Ryzen 7 5800U         , RTX 3050 Ti  , 16GB RAM, 512GB SSD
+Nitro 5 2021        , Acer , $850 , 12, Ryzen 5 5600H        , GTX 1650     , 8GB RAM , 512GB SSD + 1TB HDD
+Nitro 5 2022        , Acer , $1500, 15, Ryzen 6800H          , RTX 3060     , 16GB RAM, 512GB SSD
+Helios 16 2023      , Acer , $2500, 10, Intel Core i9-13900HX, RTX 4070     , 16GB RAM, 1TB SSD
+VivoBook K513EQ     , Asus , $1300, 10, Intel i7-1165G7      , MX350        , 8GB RAM , 1TB SSD
+Zenbook 14 UX425EA  , Asus , $1500, 10, Intel i5-11450H      , Intel Iris Xe, 8GB RAM , 512GB SSD
+Zenbook Duo 17 Fold , Asus , $5000, 8 , Intel i7-1250U       , Intel Iris Xe, 16GB RAM, 1TB SSD
+TUF Dash F15 2022   , Asus , $1400, 15, Intel i5-11450H      , RTX 3050     , 16GB RAM, 512GB SSD
+ROG Strix G15 G513RC, Asus , $2500, 13, Ryzen 9 6900HS       , RTX 3060     , 16GB RAM, 1TB SSD
+Inspiron 15 3511    , Dell , $700 , 11, Core i5-1135G7       , Intel Iris Xe, 8GB RAM , 512GB SSD
+Inspiron 16 5625    , Dell , $950 , 12, Ryzen 5 5625U        , AMD Radeon   , 8GB RAM , 512GB SSD
+G15 5520 2022       , Dell , $1450, 11, Intel i5-12500H      , RTX 3050     , 16GB RAM, 512GB SSD
+Victus 15           , HP   , $950 , 10, Intel 12450H         , GTX 1650     , 8GB RAM , 512GB SSD
+Omen 16 2021        , HP   , $1650, 10, Intel i7-11800H      , RTX 3060     , 16GB RAM, 512GB SSD
+MacBook Air 2022    , Apple, $1900, 10, M2 Chip 8-core       , 8-core GPU   , 8GB RAM , 256GB SSD
+Macbook Pro 13 2022 , Apple, $2400, 5 , M2 Chip 8-core       , 10-core GPU  , 8GB RAM , 512GB SSD
+Macbook Pro 16 2023 , Apple, $4100, 6 , M2 Pro 12-core       , 19-core GPU  , 16GB RAM, 1TB SSD
+Katana B13 2023     , MSI  , $2000, 11, Intel Core i7-13620H , RTX 4050     , 16GB RAM, 1TB SSD
